@@ -6,7 +6,7 @@
 - NPM - Node package manager
 
 ## Setting UP Environment
-- git clone https://github.com/ezioguga/nodejs-boilerplate.git
+- git clone https://github.com/GitHubExperts-LK/angular-boilerplate.git
 
 ## Install Dependancies
 ```
